@@ -19,12 +19,10 @@ credit_risk_modelling/
 git clone …
 cd credit_risk_modelling
 pip install -r requirements.txt
-jupyter notebook  # to explore analysis
-````
-
-```bash
-python src/main.py --input new_application.csv
+# Any IDE that supports Python
+streamlit run main.py
 ```
+
 
 ## 🧠 Modeling Approach
 
