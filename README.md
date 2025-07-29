@@ -55,6 +55,6 @@ Licensed under MIT (or whatever you choose)
 ## 🙏 Acknowledgments
 
 * Inspired by Codebasics credit risk ML course
-* Special Thanks to Dhaval patel
+* Special Thanks to Dhaval Patel
 * Data source: Kaggle Lending Club dataset, etc.
 
