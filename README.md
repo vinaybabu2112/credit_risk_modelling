@@ -5,16 +5,13 @@
 
 ## 📁 Repository Structure
 
-
-
-credit\_risk\_modelling/
+credit_risk_modelling/
 ├── data/
 ├── notebooks/
 ├── src/
-│   └── main.py
+│ └── main.py
 ├── requirements.txt
 └── LICENSE
-
 
 ## 🚀 How to Run
 
