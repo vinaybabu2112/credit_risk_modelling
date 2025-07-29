@@ -109,10 +109,10 @@ cd credit_risk_modelling
 pip install -r requirements.txt
 ```
 
-3. **Run the Jupyter Notebook**
+3. **Run**
 
 ```bash
-jupyter notebook notebooks/credit_risk_modeling.ipynb
+python main.py
 ```
 
 4. **Use the model to predict**
